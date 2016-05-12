@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ErpApp</string>
+
+
+
+    <string-array name="reasons_List">
+        <item>Plant Shut Down</item>
+        <item>Scheduled Downtime</item>
+        <item>Delay Time</item>
+        <item>Repair Time</item>
+        <item>Non-Process Production Time</item>
+    </string-array>
+
+</resources>
